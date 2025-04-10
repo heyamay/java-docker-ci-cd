@@ -57,7 +57,7 @@ So I built a complete **DevOps automation workflow** that ships code to producti
 ```
 📖 **Read Full Blog Here** 👉 [DevOps CI/CD Project on Medium](https://medium.com/@amayjaiswal/devops-ci-cd-project-jenkins-ci-cd-pipeline-on-aws-with-ecr-docker-prometheus-grafana-bd0f8c87e982)
 
-##Resume- 
+## Resume- 
 ### End-to-End Automation with Jenkins, Docker, Prometheus, Grafana, and AWS
 - Led the end-to-end development of a Jenkins-based CI/CD pipeline for a Java application, utilizing Docker for
 containerized deployments on AWS EC2, resulting in a 30% improvement in deployment speed.
