@@ -1,6 +1,6 @@
 # 🚀 DevOps CI/CD Pipeline Project with Jenkins, Docker, Terraform, AWS, and Monitoring
 
-![Architecture Diagram](./path-to-your-diagram.png)
+![Architecture Diagram](https://raw.githubusercontent.com/heyamay/java-docker-ci-cd/main/BannerImage.png)
 
 ## 📌 Project Overview
 
@@ -54,6 +54,6 @@ So I built a complete **DevOps automation workflow** that ships code to producti
 ├── jenkins-pipeline/
 │   └── Jenkinsfile
 └── README.md
-
-![Check my blog:](https://medium.com/@amayjaiswal/devops-ci-cd-project-jenkins-ci-cd-pipeline-on-aws-with-ecr-docker-prometheus-grafana-bd0f8c87e982)
+```
+📖 **Read Full Blog Here** 👉 [DevOps CI/CD Project on Medium](https://medium.com/@amayjaiswal/devops-ci-cd-project-jenkins-ci-cd-pipeline-on-aws-with-ecr-docker-prometheus-grafana-bd0f8c87e982)
 
